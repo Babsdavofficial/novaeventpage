@@ -1,0 +1,2 @@
+# novaeventpage
+event pagetemplate
